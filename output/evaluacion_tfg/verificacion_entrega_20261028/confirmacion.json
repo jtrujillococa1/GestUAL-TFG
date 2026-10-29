@@ -1,0 +1,77 @@
+{
+  "scenario": "confirmacion",
+  "passed": true,
+  "browser": "155.0.8059.85",
+  "requests": [
+    {
+      "method": "POST",
+      "path": "/api/v1/auth/token",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/profesores/mi",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/dashboard/",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/turnos-activos",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/borrador/Pruebas%2C%20Ana",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/opciones/Pruebas%2C%20Ana",
+      "status": 200
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/borrador/Pruebas%2C%20Ana/anadir",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/borrador/Pruebas%2C%20Ana",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/opciones/Pruebas%2C%20Ana",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/turnos-activos",
+      "status": 200
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/confirmar-turno",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/turnos-activos",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/actividades/adjudicaciones",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/actividades/adjudicaciones",
+      "status": 200
+    }
+  ]
+}

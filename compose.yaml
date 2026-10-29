@@ -1,0 +1,53 @@
+services:
+
+  backend:
+    build:
+      context: ./backend
+
+    # Evita procesos huérfanos cuando se ejecutan tareas puntuales (p. ej.
+    # exportaciones o cálculos) y permite recuperarse de un reinicio no
+    # intencionado sin cambiar la forma de servir la aplicación.
+    init: true
+    restart: unless-stopped
+
+    env_file:
+      - ./backend/.env
+
+    ports:
+      - "8000:8000"
+
+    environment:
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONUNBUFFERED: "1"
+
+    # El controlador local comprime y rota los registros. Así se evita que la
+    # actividad normal de la API consuma disco de forma indefinida, manteniendo
+    # un historial amplio consultable con `docker compose logs`.
+    logging:
+      driver: local
+      options:
+        max-size: "20m"
+        max-file: "5"
+
+
+  frontend:
+    build:
+      context: ./frontend
+
+    init: true
+    restart: unless-stopped
+
+    ports:
+      - "9002:9002"
+
+    environment:
+      PORT: "9002"
+
+    logging:
+      driver: local
+      options:
+        max-size: "20m"
+        max-file: "5"
+
+    depends_on:
+      - backend 

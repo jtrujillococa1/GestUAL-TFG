@@ -1,0 +1,1341 @@
+{
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "P1",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 2,
+      "nombre": "P2",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 3,
+      "nombre": "P3",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 4,
+      "nombre": "P4",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 5,
+      "nombre": "P5",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 6,
+      "nombre": "P6",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 7,
+      "nombre": "P7",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 8,
+      "nombre": "P8",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 9,
+      "nombre": "P9",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 10,
+      "nombre": "P10",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 11,
+      "nombre": "P11",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    },
+    {
+      "id": 12,
+      "nombre": "P12",
+      "apellidos": "Sintetico",
+      "area_id": 1,
+      "area_ids": [
+        1
+      ],
+      "horas_objetivo": 12,
+      "carga_docente": 12,
+      "horas_objetivo_por_area": {
+        "1": 12
+      },
+      "disponibilidad_cuatrimestre": "AMBOS"
+    }
+  ],
+  "actividades": [
+    {
+      "id": 43,
+      "codigo": "A43",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 31,
+      "codigo": "A31",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 23,
+      "codigo": "A23",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 14,
+      "codigo": "A14",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 18,
+      "codigo": "A18",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 25,
+      "codigo": "A25",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "15:00-16:00"
+    },
+    {
+      "id": 22,
+      "codigo": "A22",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "14:00-15:00"
+    },
+    {
+      "id": 39,
+      "codigo": "A39",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 7,
+      "codigo": "A7",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "13:00-14:00"
+    },
+    {
+      "id": 15,
+      "codigo": "A15",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 36,
+      "codigo": "A36",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "11:00-12:00"
+    },
+    {
+      "id": 30,
+      "codigo": "A30",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "11:00-12:00"
+    },
+    {
+      "id": 35,
+      "codigo": "A35",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "15:00-16:00"
+    },
+    {
+      "id": 27,
+      "codigo": "A27",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 28,
+      "codigo": "A28",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 37,
+      "codigo": "A37",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "11:00-12:00"
+    },
+    {
+      "id": 46,
+      "codigo": "A46",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 34,
+      "codigo": "A34",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 10,
+      "codigo": "A10",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "08:00-09:00"
+    },
+    {
+      "id": 4,
+      "codigo": "A4",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 21,
+      "codigo": "A21",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "13:00-14:00"
+    },
+    {
+      "id": 20,
+      "codigo": "A20",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "13:00-14:00"
+    },
+    {
+      "id": 33,
+      "codigo": "A33",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 32,
+      "codigo": "A32",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 29,
+      "codigo": "A29",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "15:00-16:00"
+    },
+    {
+      "id": 41,
+      "codigo": "A41",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 42,
+      "codigo": "A42",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "08:00-09:00"
+    },
+    {
+      "id": 26,
+      "codigo": "A26",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "13:00-14:00"
+    },
+    {
+      "id": 38,
+      "codigo": "A38",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "15:00-16:00"
+    },
+    {
+      "id": 19,
+      "codigo": "A19",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 13,
+      "codigo": "A13",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 1,
+      "codigo": "A1",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "08:00-09:00"
+    },
+    {
+      "id": 47,
+      "codigo": "A47",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "14:00-15:00"
+    },
+    {
+      "id": 11,
+      "codigo": "A11",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "14:00-15:00"
+    },
+    {
+      "id": 9,
+      "codigo": "A9",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 17,
+      "codigo": "A17",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 48,
+      "codigo": "A48",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "08:00-09:00"
+    },
+    {
+      "id": 40,
+      "codigo": "A40",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 3,
+      "codigo": "A3",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "14:00-15:00"
+    },
+    {
+      "id": 45,
+      "codigo": "A45",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 5,
+      "codigo": "A5",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "08:00-09:00"
+    },
+    {
+      "id": 8,
+      "codigo": "A8",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "09:00-10:00"
+    },
+    {
+      "id": 6,
+      "codigo": "A6",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "12:00-13:00"
+    },
+    {
+      "id": 2,
+      "codigo": "A2",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "15:00-16:00"
+    },
+    {
+      "id": 44,
+      "codigo": "A44",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C1",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "14:00-15:00"
+    },
+    {
+      "id": 16,
+      "codigo": "A16",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "13:00-14:00"
+    },
+    {
+      "id": 12,
+      "codigo": "A12",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    },
+    {
+      "id": 24,
+      "codigo": "A24",
+      "nombre_asignatura": "Sintetica",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "grupo": "A",
+      "area_id": 1,
+      "horas_totales": 3,
+      "duracion": "C2",
+      "requiere_horario": false,
+      "horario_confirmado": false,
+      "origen_horario": "SINTETICO",
+      "dias": "Lunes",
+      "horario": "10:00-11:00"
+    }
+  ],
+  "testigo": [
+    {
+      "profesor": "Sintetico, P1",
+      "actividad_id": 1,
+      "codigo": "A1",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P1",
+      "actividad_id": 2,
+      "codigo": "A2",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P1",
+      "actividad_id": 3,
+      "codigo": "A3",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P1",
+      "actividad_id": 4,
+      "codigo": "A4",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P2",
+      "actividad_id": 5,
+      "codigo": "A5",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P2",
+      "actividad_id": 6,
+      "codigo": "A6",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P2",
+      "actividad_id": 7,
+      "codigo": "A7",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P2",
+      "actividad_id": 8,
+      "codigo": "A8",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P3",
+      "actividad_id": 9,
+      "codigo": "A9",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P3",
+      "actividad_id": 10,
+      "codigo": "A10",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P3",
+      "actividad_id": 11,
+      "codigo": "A11",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P3",
+      "actividad_id": 12,
+      "codigo": "A12",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P4",
+      "actividad_id": 13,
+      "codigo": "A13",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P4",
+      "actividad_id": 14,
+      "codigo": "A14",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P4",
+      "actividad_id": 15,
+      "codigo": "A15",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P4",
+      "actividad_id": 16,
+      "codigo": "A16",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P5",
+      "actividad_id": 17,
+      "codigo": "A17",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P5",
+      "actividad_id": 18,
+      "codigo": "A18",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P5",
+      "actividad_id": 19,
+      "codigo": "A19",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P5",
+      "actividad_id": 20,
+      "codigo": "A20",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P6",
+      "actividad_id": 21,
+      "codigo": "A21",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P6",
+      "actividad_id": 22,
+      "codigo": "A22",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P6",
+      "actividad_id": 23,
+      "codigo": "A23",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P6",
+      "actividad_id": 24,
+      "codigo": "A24",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P7",
+      "actividad_id": 25,
+      "codigo": "A25",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P7",
+      "actividad_id": 26,
+      "codigo": "A26",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P7",
+      "actividad_id": 27,
+      "codigo": "A27",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P7",
+      "actividad_id": 28,
+      "codigo": "A28",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P8",
+      "actividad_id": 29,
+      "codigo": "A29",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P8",
+      "actividad_id": 30,
+      "codigo": "A30",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P8",
+      "actividad_id": 31,
+      "codigo": "A31",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P8",
+      "actividad_id": 32,
+      "codigo": "A32",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P9",
+      "actividad_id": 33,
+      "codigo": "A33",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P9",
+      "actividad_id": 34,
+      "codigo": "A34",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P9",
+      "actividad_id": 35,
+      "codigo": "A35",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P9",
+      "actividad_id": 36,
+      "codigo": "A36",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P10",
+      "actividad_id": 37,
+      "codigo": "A37",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P10",
+      "actividad_id": 38,
+      "codigo": "A38",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P10",
+      "actividad_id": 39,
+      "codigo": "A39",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P10",
+      "actividad_id": 40,
+      "codigo": "A40",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P11",
+      "actividad_id": 41,
+      "codigo": "A41",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P11",
+      "actividad_id": 42,
+      "codigo": "A42",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P11",
+      "actividad_id": 43,
+      "codigo": "A43",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P11",
+      "actividad_id": 44,
+      "codigo": "A44",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P12",
+      "actividad_id": 45,
+      "codigo": "A45",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P12",
+      "actividad_id": 46,
+      "codigo": "A46",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P12",
+      "actividad_id": 47,
+      "codigo": "A47",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    },
+    {
+      "profesor": "Sintetico, P12",
+      "actividad_id": 48,
+      "codigo": "A48",
+      "tipo": "GD",
+      "codigo_grupo": "A",
+      "horas": 3
+    }
+  ],
+  "sha256": "8bd3b0b02932f32766d65e95c8eda366a7ceb85242f1f85838f10f36c0bbc90b"
+}

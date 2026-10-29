@@ -1,0 +1,1627 @@
+[
+  {
+    "turno": 0,
+    "profesor": null,
+    "cobertura": 0,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 2237.2,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.2193012999999837,
+    "elecciones": []
+  },
+  {
+    "turno": 1,
+    "profesor": "P004",
+    "cobertura": 6.799,
+    "cobertura_hipotetica": 6.799,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 2085.1,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 2085.1,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.2782521999999972,
+    "elecciones": [
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 613,
+        "codigo": "40153332",
+        "tipo": "GT",
+        "codigo_grupo": "ING-1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 565,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "B1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 568,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 15.6
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 625,
+        "codigo": "41243203",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 601,
+        "codigo": "40153320",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 577,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 582,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P004",
+        "actividad_id": 574,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "B1",
+        "horas": 19.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 2,
+    "profesor": "P010",
+    "cobertura": 11.09,
+    "cobertura_hipotetica": 11.09,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1989.1,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1989.1,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.17106230000001688,
+    "elecciones": [
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 612,
+        "codigo": "40153332",
+        "tipo": "GT",
+        "codigo_grupo": "AB3",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 592,
+        "codigo": "40153318",
+        "tipo": "GT",
+        "codigo_grupo": "AB2",
+        "horas": 6.3
+      },
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 559,
+        "codigo": "40151107",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 626,
+        "codigo": "41243204",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 594,
+        "codigo": "40153318",
+        "tipo": "GT",
+        "codigo_grupo": "AB4",
+        "horas": 6.3
+      },
+      {
+        "profesor": "ATC, P010",
+        "actividad_id": 568,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 0.9
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 3,
+    "profesor": "P011",
+    "cobertura": 16.351,
+    "cobertura_hipotetica": 16.351,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1871.4,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1871.4,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.1651412999999593,
+    "elecciones": [
+      {
+        "profesor": "ATC, P011",
+        "actividad_id": 623,
+        "codigo": "40154334",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 5.7
+      },
+      {
+        "profesor": "ATC, P011",
+        "actividad_id": 609,
+        "codigo": "40153332",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P011",
+        "actividad_id": 569,
+        "codigo": "40152207",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P011",
+        "actividad_id": 644,
+        "codigo": "71321107",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 30.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 4,
+    "profesor": "P016",
+    "cobertura": 23.413,
+    "cobertura_hipotetica": 23.413,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1713.4,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1713.4,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.19496329999992668,
+    "elecciones": [
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 623,
+        "codigo": "40154334",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 3.5
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 581,
+        "codigo": "40152208",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 622,
+        "codigo": "40154333",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 12.0
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 602,
+        "codigo": "40153320",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 600,
+        "codigo": "40153320",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 651,
+        "codigo": "71461202",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P016",
+        "actividad_id": 562,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 5,
+    "profesor": "P019",
+    "cobertura": 28.558,
+    "cobertura_hipotetica": 28.558,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1598.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1598.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.16433649999999034,
+    "elecciones": [
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 607,
+        "codigo": "40153332",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 560,
+        "codigo": "40151107",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 566,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "B2",
+        "horas": 2.0
+      },
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 629,
+        "codigo": "41243207",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 11.3
+      },
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 620,
+        "codigo": "40154324",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P019",
+        "actividad_id": 568,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 0.8
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 6,
+    "profesor": "P022",
+    "cobertura": 33.251,
+    "cobertura_hipotetica": 33.251,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1493.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1493.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.21074079999993955,
+    "elecciones": [
+      {
+        "profesor": "ATC, P022",
+        "actividad_id": 604,
+        "codigo": "40153327",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P022",
+        "actividad_id": 633,
+        "codigo": "43104223",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 0.5
+      },
+      {
+        "profesor": "ATC, P022",
+        "actividad_id": 635,
+        "codigo": "70354202",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P022",
+        "actividad_id": 630,
+        "codigo": "43103222",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 7,
+    "profesor": "P036",
+    "cobertura": 39.867,
+    "cobertura_hipotetica": 39.867,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1345.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1345.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.2843908999999485,
+    "elecciones": [
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 633,
+        "codigo": "43104223",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 0.3
+      },
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 599,
+        "codigo": "40153320",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 619,
+        "codigo": "40154324",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 26.0
+      },
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 614,
+        "codigo": "40154321",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 26.0
+      },
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 589,
+        "codigo": "40153318",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 13.7
+      },
+      {
+        "profesor": "ATC, P036",
+        "actividad_id": 578,
+        "codigo": "40152208",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 8,
+    "profesor": "P037",
+    "cobertura": 44.337,
+    "cobertura_hipotetica": 44.337,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1245.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1245.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.18303279999997812,
+    "elecciones": [
+      {
+        "profesor": "ATC, P037",
+        "actividad_id": 641,
+        "codigo": "71321105",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P037",
+        "actividad_id": 645,
+        "codigo": "71321110",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 3.7
+      },
+      {
+        "profesor": "ATC, P037",
+        "actividad_id": 570,
+        "codigo": "40152207",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P037",
+        "actividad_id": 591,
+        "codigo": "40153318",
+        "tipo": "GT",
+        "codigo_grupo": "AB1",
+        "horas": 6.3
+      },
+      {
+        "profesor": "ATC, P037",
+        "actividad_id": 618,
+        "codigo": "40154321",
+        "tipo": "GT",
+        "codigo_grupo": "ING-1",
+        "horas": 19.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 9,
+    "profesor": "P040",
+    "cobertura": 52.382,
+    "cobertura_hipotetica": 52.382,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1065.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 1065.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.25102160000005824,
+    "elecciones": [
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 606,
+        "codigo": "40153327",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 616,
+        "codigo": "40154321",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 566,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "B2",
+        "horas": 17.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 597,
+        "codigo": "40153319",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 575,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "B2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 583,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 572,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 642,
+        "codigo": "71321105",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P040",
+        "actividad_id": 573,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 10,
+    "profesor": "P041",
+    "cobertura": 60.428,
+    "cobertura_hipotetica": 60.428,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 885.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 885.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.17153129999996963,
+    "elecciones": [
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 585,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "B2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 588,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "ING-1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 633,
+        "codigo": "43104223",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 0.4
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 650,
+        "codigo": "71321736",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 647,
+        "codigo": "71321712",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 598,
+        "codigo": "40153319",
+        "tipo": "GT",
+        "codigo_grupo": "A3",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 645,
+        "codigo": "71321110",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 2.6
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 646,
+        "codigo": "71321711",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P041",
+        "actividad_id": 648,
+        "codigo": "71321713",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 11,
+    "profesor": "P059",
+    "cobertura": 67.446,
+    "cobertura_hipotetica": 67.446,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 728.3,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 728.3,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.1851001999999653,
+    "elecciones": [
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 631,
+        "codigo": "43103222",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 596,
+        "codigo": "40153319",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 611,
+        "codigo": "40153332",
+        "tipo": "GT",
+        "codigo_grupo": "AB2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 564,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "A3",
+        "horas": 17.5
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 584,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "B1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 627,
+        "codigo": "41243204",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P059",
+        "actividad_id": 608,
+        "codigo": "40153332",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 41.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 12,
+    "profesor": "P062",
+    "cobertura": 72.153,
+    "cobertura_hipotetica": 72.153,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 623.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 623.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.17334189999996852,
+    "elecciones": [
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 637,
+        "codigo": "70354202",
+        "tipo": "GD",
+        "codigo_grupo": "D",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 615,
+        "codigo": "40154321",
+        "tipo": "GD",
+        "codigo_grupo": "ING",
+        "horas": 26.0
+      },
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 580,
+        "codigo": "40152208",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 18.0
+      },
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 621,
+        "codigo": "40154324",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 564,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "A3",
+        "horas": 0.8
+      },
+      {
+        "profesor": "ATC, P062",
+        "actividad_id": 563,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 13,
+    "profesor": "P066",
+    "cobertura": 76.623,
+    "cobertura_hipotetica": 76.623,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 523.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 523.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.17236989999992147,
+    "elecciones": [
+      {
+        "profesor": "ATC, P066",
+        "actividad_id": 633,
+        "codigo": "43104223",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 0.2
+      },
+      {
+        "profesor": "ATC, P066",
+        "actividad_id": 636,
+        "codigo": "70354202",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P066",
+        "actividad_id": 595,
+        "codigo": "40153319",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P066",
+        "actividad_id": 593,
+        "codigo": "40153318",
+        "tipo": "GT",
+        "codigo_grupo": "AB3",
+        "horas": 6.3
+      },
+      {
+        "profesor": "ATC, P066",
+        "actividad_id": 639,
+        "codigo": "70354203",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 30.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 14,
+    "profesor": "P070",
+    "cobertura": 79.304,
+    "cobertura_hipotetica": 79.304,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 463.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 463.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.16281549999996514,
+    "elecciones": [
+      {
+        "profesor": "ATC, P070",
+        "actividad_id": 633,
+        "codigo": "43104223",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 0.1
+      },
+      {
+        "profesor": "ATC, P070",
+        "actividad_id": 558,
+        "codigo": "33214301",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 5.7
+      },
+      {
+        "profesor": "ATC, P070",
+        "actividad_id": 643,
+        "codigo": "71321107",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P070",
+        "actividad_id": 634,
+        "codigo": "70354202",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P070",
+        "actividad_id": 568,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 1.7
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 15,
+    "profesor": "P074",
+    "cobertura": 81.986,
+    "cobertura_hipotetica": 81.986,
+    "riesgo": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 403.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 25,
+      "nivel": "MODERADO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 403.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.1588206999999784,
+    "elecciones": [
+      {
+        "profesor": "ATC, P074",
+        "actividad_id": 638,
+        "codigo": "70354203",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      },
+      {
+        "profesor": "ATC, P074",
+        "actividad_id": 640,
+        "codigo": "70354203",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 30.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 16,
+    "profesor": "P075",
+    "cobertura": 86.724,
+    "cobertura_hipotetica": 86.724,
+    "riesgo": {
+      "riesgo": 40,
+      "nivel": "MODERADO",
+      "motivos": [
+        "Cobertura limitada: solo quedan dos alternativas para Estructura y Tecnología de Computadores."
+      ],
+      "desglose": {
+        "cobertura": 15,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 297.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 40,
+      "nivel": "MODERADO",
+      "motivos": [
+        "Cobertura limitada: solo quedan dos alternativas para Estructura y Tecnología de Computadores."
+      ],
+      "desglose": {
+        "cobertura": 15,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 297.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.16426779999994778,
+    "elecciones": [
+      {
+        "profesor": "ATC, P075",
+        "actividad_id": 579,
+        "codigo": "40152208",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P075",
+        "actividad_id": 571,
+        "codigo": "40152207",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P075",
+        "actividad_id": 632,
+        "codigo": "43103222",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P075",
+        "actividad_id": 645,
+        "codigo": "71321110",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 5.0
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 17,
+    "profesor": "P088",
+    "cobertura": 89.853,
+    "cobertura_hipotetica": 89.853,
+    "riesgo": {
+      "riesgo": 85,
+      "nivel": "CRITICO",
+      "motivos": [
+        "Cobertura crítica: solo queda una alternativa para Estructura y Tecnología de Computadores.",
+        "La capacidad compatible restante tiene un margen inferior al 15% en alguna actividad."
+      ],
+      "desglose": {
+        "cobertura": 35,
+        "margen": 25,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 227.0,
+      "actividades_criticas": 7
+    },
+    "riesgo_confirmado": {
+      "riesgo": 85,
+      "nivel": "CRITICO",
+      "motivos": [
+        "Cobertura crítica: solo queda una alternativa para Estructura y Tecnología de Computadores.",
+        "La capacidad compatible restante tiene un margen inferior al 15% en alguna actividad."
+      ],
+      "desglose": {
+        "cobertura": 35,
+        "margen": 25,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 25
+      },
+      "horas_pendientes": 227.0,
+      "actividades_criticas": 7
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.15744279999989885,
+    "elecciones": [
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 624,
+        "codigo": "41243203",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 22.5
+      },
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 590,
+        "codigo": "40153318",
+        "tipo": "GD",
+        "codigo_grupo": "B",
+        "horas": 13.7
+      },
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 564,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "A3",
+        "horas": 0.7
+      },
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 576,
+        "codigo": "40152207",
+        "tipo": "GT",
+        "codigo_grupo": "C1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 628,
+        "codigo": "41243207",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 11.3
+      },
+      {
+        "profesor": "ATC, P088",
+        "actividad_id": 623,
+        "codigo": "40154334",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 2.8
+      }
+    ],
+    "diagnostico": null
+  },
+  {
+    "turno": 18,
+    "profesor": "P091",
+    "cobertura": 100.0,
+    "cobertura_hipotetica": 100.0,
+    "riesgo": {
+      "riesgo": 0,
+      "nivel": "BAJO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 0
+      },
+      "horas_pendientes": 0.0,
+      "actividades_criticas": 0
+    },
+    "riesgo_confirmado": {
+      "riesgo": 0,
+      "nivel": "BAJO",
+      "motivos": [],
+      "desglose": {
+        "cobertura": 0,
+        "margen": 0,
+        "configuracion": 0,
+        "cuatrimestre": 0,
+        "competencia": 0
+      },
+      "horas_pendientes": 0.0,
+      "actividades_criticas": 0
+    },
+    "estado": "viable",
+    "aceptado": true,
+    "segundos": 0.15539769999998043,
+    "elecciones": [
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 580,
+        "codigo": "40152208",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 23.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 603,
+        "codigo": "40153320",
+        "tipo": "GT",
+        "codigo_grupo": "ING-1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 605,
+        "codigo": "40153327",
+        "tipo": "GT",
+        "codigo_grupo": "A1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 610,
+        "codigo": "40153332",
+        "tipo": "GT",
+        "codigo_grupo": "AB1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 567,
+        "codigo": "40151107",
+        "tipo": "GT",
+        "codigo_grupo": "C1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 617,
+        "codigo": "40154321",
+        "tipo": "GT",
+        "codigo_grupo": "A2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 561,
+        "codigo": "40151107",
+        "tipo": "GD",
+        "codigo_grupo": "C",
+        "horas": 41.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 587,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "C2",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 586,
+        "codigo": "40152208",
+        "tipo": "GT",
+        "codigo_grupo": "C1",
+        "horas": 19.0
+      },
+      {
+        "profesor": "ATC, P091",
+        "actividad_id": 649,
+        "codigo": "71321724",
+        "tipo": "GD",
+        "codigo_grupo": "A",
+        "horas": 30.0
+      }
+    ],
+    "diagnostico": null
+  }
+]

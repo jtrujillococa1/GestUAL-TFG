@@ -1,0 +1,27 @@
+{
+  "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "ortools": "9.14.6206",
+  "plataforma": "Windows-11-10.0.26300-SP0",
+  "procesador": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+  "fecha": "2026-10-26 10:13:27",
+  "cache": false,
+  "codigo_sha256": {
+    "backend\\solver\\cache.py": "1b0f40a5f9f181dabf659cedee398b8ac894b4d9d478a35f2d3a58a360435f8d",
+    "backend\\solver\\compatibilidad.py": "f02595200003106c732fecabd403823dc31b4c47a7a724ad98a9458233d2b80f",
+    "backend\\solver\\engine.py": "f8aed8ab3c0398f3c8df8161491ce20f595a12e144449e8fc85fec2dc3c15f9a",
+    "backend\\solver\\reparacion_conflictos.py": "f00b58668931004438d46d5536a0b6c317f4b037408fdf408c95f75715c95f12",
+    "backend\\solver\\__init__.py": "6c27df799781ca2844a74d9508387a49cdd8ba547679dbb08fca7f369b9e587e",
+    "backend\\domain\\ordenacion\\conflictos.py": "8e6acf8de88d6853c5e77b225494bce97f07a7e7a39d4ea1abda9caa3aad9d1d",
+    "backend\\domain\\ordenacion\\disponibilidad.py": "9f29e3a78566130649daabebca96e12ce9a5115f8bd4b0d7d359700707d5c6c1",
+    "backend\\domain\\ordenacion\\planificacion_semanal.py": "bcfc297014911766990893305dec4064e27a89e3591855e165697184d9d650dc",
+    "backend\\domain\\ordenacion\\reparto_heuristico.py": "a3b8999c7e34704e969eb0630204268ee07dcd8d6f089f3af2a81f64f97e10bd",
+    "backend\\domain\\ordenacion\\scheduler.py": "540b23e3ba51962f3b19a724d1b1bbcefcaca1d94a99c6af6383584eebf5c1f3",
+    "backend\\domain\\ordenacion\\turnos.py": "c2760c946d965eac770e959087cb93fed2cb6aa5f3c298d01369bbe9646ddcb8",
+    "backend\\domain\\ordenacion\\viabilidad.py": "1eb374b2fb9dfe1dda67f1d9b3f0f9d49a30f1248165504567cbb7e95f1e3972",
+    "backend\\domain\\ordenacion\\__init__.py": "c43b06096b1f246b3e1dc7c84b3d08e192e1184a91a4c3673026d0279874cf8e"
+  },
+  "diseno": "Solo las ocho ejecuciones indeterminadas a 10 s; nuevas ejecuciones desde cero a 30 s, no reanudaciones.",
+  "cambios_fuera_del_calculo": [
+    "backend\\solver\\reparacion_conflictos.py"
+  ]
+}

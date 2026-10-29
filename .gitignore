@@ -1,0 +1,40 @@
+# Configuraciones privadas (mantener ejemplos publicables)
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencias, cachés y salidas de desarrollo
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.venv/
+**/venv/
+**/node_modules/
+**/.next/
+**/.turbo/
+**/.coverage
+**/.coverage.*
+**/htmlcov/
+**/dist/
+**/build/
+*.py[cod]
+*.log
+*.tsbuildinfo
+
+# Datos y copias locales (las instancias JSON documentadas sí se conservan)
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+
+# IDE y sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

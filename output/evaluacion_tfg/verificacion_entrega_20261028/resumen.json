@@ -1,0 +1,55 @@
+{
+  "fecha": "2026-10-28",
+  "total": 319,
+  "superadas": 319,
+  "fallos": 0,
+  "omitidas": 0,
+  "principal": 261,
+  "complementarias": 52,
+  "postgresql": 4,
+  "e2e": 2,
+  "cobertura": {
+    "covered_lines": 3728,
+    "num_statements": 6126,
+    "percent_covered": 60.85537055174665,
+    "percent_covered_display": "61",
+    "missing_lines": 2398,
+    "excluded_lines": 6,
+    "percent_statements_covered": 60.85537055174665,
+    "percent_statements_covered_display": "61"
+  },
+  "paquetes": {
+    "api": {
+      "ejecutadas": 713,
+      "contabilizadas": 1793
+    },
+    "core": {
+      "ejecutadas": 181,
+      "contabilizadas": 214
+    },
+    "db": {
+      "ejecutadas": 44,
+      "contabilizadas": 49
+    },
+    "domain": {
+      "ejecutadas": 697,
+      "contabilizadas": 766
+    },
+    "models": {
+      "ejecutadas": 328,
+      "contabilizadas": 328
+    },
+    "repositories": {
+      "ejecutadas": 416,
+      "contabilizadas": 1075
+    },
+    "services": {
+      "ejecutadas": 724,
+      "contabilizadas": 1157
+    },
+    "solver": {
+      "ejecutadas": 625,
+      "contabilizadas": 744
+    }
+  }
+}

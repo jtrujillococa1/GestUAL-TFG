@@ -1,0 +1,571 @@
+{
+  "target": 141,
+  "donor": 151,
+  "taken": {
+    "profesor_id": 141,
+    "actividad_id": 565,
+    "horas": 19.0
+  },
+  "freed": {
+    "profesor_id": 151,
+    "actividad_id": 609,
+    "horas": 41.0
+  },
+  "plan": [
+    {
+      "profesor_id": 141,
+      "actividad_id": 568,
+      "horas": 15.6
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 574,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 577,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 582,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 601,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 613,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 625,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 151,
+      "actividad_id": 569,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 151,
+      "actividad_id": 623,
+      "horas": 5.7
+    },
+    {
+      "profesor_id": 151,
+      "actividad_id": 644,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 560,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 566,
+      "horas": 2.0
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 607,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 620,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 629,
+      "horas": 11.3
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 633,
+      "horas": 0.1
+    },
+    {
+      "profesor_id": 146,
+      "actividad_id": 645,
+      "horas": 0.7
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 578,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 589,
+      "horas": 13.7
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 599,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 614,
+      "horas": 26.0
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 619,
+      "horas": 26.0
+    },
+    {
+      "profesor_id": 186,
+      "actividad_id": 633,
+      "horas": 0.3
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 585,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 588,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 598,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 623,
+      "horas": 1.3
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 645,
+      "horas": 1.7
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 646,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 647,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 648,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 174,
+      "actividad_id": 650,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 564,
+      "horas": 17.5
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 584,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 596,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 608,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 611,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 627,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 166,
+      "actividad_id": 631,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 181,
+      "actividad_id": 593,
+      "horas": 6.3
+    },
+    {
+      "profesor_id": 181,
+      "actividad_id": 595,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 181,
+      "actividad_id": 633,
+      "horas": 0.2
+    },
+    {
+      "profesor_id": 181,
+      "actividad_id": 636,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 181,
+      "actividad_id": 639,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 209,
+      "actividad_id": 638,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 209,
+      "actividad_id": 640,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 568,
+      "horas": 3.4
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 576,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 590,
+      "horas": 13.7
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 624,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 628,
+      "horas": 11.3
+    },
+    {
+      "profesor_id": 157,
+      "actividad_id": 633,
+      "horas": 0.1
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 559,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 592,
+      "horas": 6.3
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 594,
+      "horas": 6.3
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 612,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 626,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 143,
+      "actividad_id": 645,
+      "horas": 0.9
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 562,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 581,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 600,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 602,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 622,
+      "horas": 12.0
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 645,
+      "horas": 3.5
+    },
+    {
+      "profesor_id": 145,
+      "actividad_id": 651,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 147,
+      "actividad_id": 604,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 147,
+      "actividad_id": 630,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 147,
+      "actividad_id": 633,
+      "horas": 0.5
+    },
+    {
+      "profesor_id": 147,
+      "actividad_id": 635,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 173,
+      "actividad_id": 570,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 173,
+      "actividad_id": 591,
+      "horas": 6.3
+    },
+    {
+      "profesor_id": 173,
+      "actividad_id": 618,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 173,
+      "actividad_id": 641,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 173,
+      "actividad_id": 645,
+      "horas": 3.7
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 566,
+      "horas": 17.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 572,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 573,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 575,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 583,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 597,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 606,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 616,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 187,
+      "actividad_id": 642,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 563,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 580,
+      "horas": 18.0
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 615,
+      "horas": 26.0
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 621,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 637,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 180,
+      "actividad_id": 645,
+      "horas": 0.8
+    },
+    {
+      "profesor_id": 195,
+      "actividad_id": 558,
+      "horas": 5.7
+    },
+    {
+      "profesor_id": 195,
+      "actividad_id": 564,
+      "horas": 1.5
+    },
+    {
+      "profesor_id": 195,
+      "actividad_id": 633,
+      "horas": 0.3
+    },
+    {
+      "profesor_id": 195,
+      "actividad_id": 634,
+      "horas": 22.5
+    },
+    {
+      "profesor_id": 195,
+      "actividad_id": 643,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 183,
+      "actividad_id": 571,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 183,
+      "actividad_id": 579,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 183,
+      "actividad_id": 623,
+      "horas": 5.0
+    },
+    {
+      "profesor_id": 183,
+      "actividad_id": 632,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 561,
+      "horas": 41.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 567,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 580,
+      "horas": 23.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 586,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 587,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 603,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 605,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 610,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 617,
+      "horas": 19.0
+    },
+    {
+      "profesor_id": 158,
+      "actividad_id": 649,
+      "horas": 30.0
+    },
+    {
+      "profesor_id": 141,
+      "actividad_id": 565,
+      "horas": 18.0
+    },
+    {
+      "profesor_id": 151,
+      "actividad_id": 609,
+      "horas": 40.0
+    },
+    {
+      "profesor_id": 151,
+      "actividad_id": 565,
+      "horas": 1.0
+    }
+  ]
+}

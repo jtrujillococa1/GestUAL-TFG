@@ -1,0 +1,8 @@
+{
+  "cpu": "Intel Core i7-8550U @ 1.80 GHz",
+  "nucleos_fisicos": 4,
+  "procesadores_logicos": 8,
+  "ram_bytes": 8463204352,
+  "ram_nominal_gb": 8,
+  "nota": "No se forzo el numero de hilos de SCIP; se uso su configuracion predeterminada."
+}

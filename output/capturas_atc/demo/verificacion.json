@@ -1,0 +1,32 @@
+{
+  "original_sin_cambios": true,
+  "estado": "PENDIENTE",
+  "impacto": {
+    "criterio": "Mínimo número de profesores, mínimo movimiento y prioridades docentes.",
+    "movimientos": 1,
+    "horas_reasignadas": 1.0,
+    "limite_profesores": 3,
+    "profesores_afectados": 2,
+    "minimo_profesores_demostrado": true
+  },
+  "movimientos": [
+    {
+      "desde": "Anónimo AR035, Profesor 43",
+      "grupo": "GRUPO A",
+      "hacia": "Anónimo AR035, Profesor 22",
+      "horas": 1.0,
+      "codigo": "40153327",
+      "asignatura": "Integración de las Tecnologías de la Información en las Organizaciones",
+      "actividad_id": 604,
+      "desde_profesor_id": 147,
+      "hacia_profesor_id": 141,
+      "prioridad_destino": null
+    }
+  ],
+  "comprobaciones": [
+    "Carga por profesor",
+    "Cuota por actividad",
+    "Compatibilidad temporal",
+    "Adjudicaciones originales iguales a la instantánea"
+  ]
+}

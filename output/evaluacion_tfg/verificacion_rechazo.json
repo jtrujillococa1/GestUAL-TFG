@@ -1,0 +1,17 @@
+{
+  "resultado": {
+    "viable": false,
+    "cached": false,
+    "diagnostico": [
+      "Las cuotas, áreas y horarios confirmados no admiten una continuación completa con las elecciones actuales."
+    ],
+    "observacion_solver": [
+      {
+        "status": 2,
+        "iterations": 0,
+        "nodes": 0
+      }
+    ]
+  },
+  "segundos": 0.9793589999999313
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "codigo": "40152207",
+    "asignatura": "Arquitectura de Computadores",
+    "grupo": "GT C1",
+    "sesion": {
+      "dia": "Jueves",
+      "fin": "19:00",
+      "fecha": "2026-11-19",
+      "inicio": "17:00"
+    }
+  },
+  {
+    "codigo": "70354202",
+    "asignatura": "Recursos Informáticos en el Aula",
+    "grupo": "GD C",
+    "sesion": {
+      "dia": "Jueves",
+      "fin": "18:30",
+      "fecha": "2026-11-19",
+      "inicio": "16:00"
+    }
+  },
+  {
+    "codigo": "70354203",
+    "asignatura": "Metodologías Activas de Trabajo en Equipo",
+    "grupo": "GD C",
+    "sesion": {
+      "dia": "Jueves",
+      "fin": "18:30",
+      "fecha": "2026-11-19",
+      "inicio": "16:00"
+    }
+  }
+]

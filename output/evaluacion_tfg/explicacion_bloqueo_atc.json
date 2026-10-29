@@ -1,0 +1,47 @@
+{
+  "tipo": "tres actividades incompatibles por pares y dos docentes restantes",
+  "docentes_restantes": [
+    "P088",
+    "P091"
+  ],
+  "actividades": [
+    {
+      "id": 576,
+      "codigo": "40152207",
+      "asignatura": "Arquitectura de Computadores",
+      "grupo": "C1",
+      "tipo": "GT",
+      "horas_pendientes": 19.0
+    },
+    {
+      "id": 636,
+      "codigo": "70354202",
+      "asignatura": "Recursos Informáticos en el Aula",
+      "grupo": "C",
+      "tipo": "GD",
+      "horas_pendientes": 14.7
+    },
+    {
+      "id": 640,
+      "codigo": "70354203",
+      "asignatura": "Metodologías Activas de Trabajo en Equipo",
+      "grupo": "C",
+      "tipo": "GD",
+      "horas_pendientes": 30.0
+    }
+  ],
+  "pares_incompatibles": [
+    [
+      576,
+      636
+    ],
+    [
+      576,
+      640
+    ],
+    [
+      636,
+      640
+    ]
+  ]
+}

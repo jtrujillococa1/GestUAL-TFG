@@ -1,0 +1,16 @@
+# Recarga automática para desarrollo local. No se usa en la ejecución normal,
+# porque Next/Turbopack conserva mucha más memoria para vigilar los archivos.
+services:
+  backend:
+    volumes:
+      - ./backend:/app
+    command: python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    build:
+      target: development
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    command: npm run dev -- --hostname 0.0.0.0

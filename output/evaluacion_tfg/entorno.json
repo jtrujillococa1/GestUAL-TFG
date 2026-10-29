@@ -1,0 +1,16 @@
+{
+  "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "ortools": "9.14.6206",
+  "plataforma": "Windows-11-10.0.26300-SP0",
+  "procesador": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+  "limite_solver_ms": 1000,
+  "cache": false,
+  "fecha": "2026-10-14 22:39:55",
+  "codigo_sha256": {
+    "backend\\solver\\cache.py": "1b0f40a5f9f181dabf659cedee398b8ac894b4d9d478a35f2d3a58a360435f8d",
+    "backend\\solver\\compatibilidad.py": "f02595200003106c732fecabd403823dc31b4c47a7a724ad98a9458233d2b80f",
+    "backend\\solver\\engine.py": "f8aed8ab3c0398f3c8df8161491ce20f595a12e144449e8fc85fec2dc3c15f9a",
+    "backend\\solver\\reparacion_conflictos.py": "33bd9396cb692b1bb9eeecda27581efe84556d87d5676c118678b17f77b2bc9a",
+    "backend\\solver\\__init__.py": "6c27df799781ca2844a74d9508387a49cdd8ba547679dbb08fca7f369b9e587e"
+  }
+}

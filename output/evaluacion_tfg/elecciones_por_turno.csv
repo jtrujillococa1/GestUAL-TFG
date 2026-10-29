@@ -1,0 +1,202 @@
+﻿secuencia,turno,profesor,actividad_id,codigo,asignatura,tipo,grupo,horas,aceptado
+conservadora,1,P004,613,40153332,Multiprocesadores,GT,ING-1,19.0,True
+conservadora,1,P004,565,40151107,Estructura y Tecnología de Computadores,GT,B1,19.0,True
+conservadora,1,P004,568,40151107,Estructura y Tecnología de Computadores,GT,C2,15.6,True
+conservadora,1,P004,625,41243203,Arquitectura de Entornos Inteligentes,GT,A1,22.5,True
+conservadora,1,P004,601,40153320,Periféricos e Interfaces,GT,A1,19.0,True
+conservadora,1,P004,577,40152207,Arquitectura de Computadores,GT,C2,19.0,True
+conservadora,1,P004,582,40152208,Fundamentos de Redes de Computadores,GT,A1,19.0,True
+conservadora,1,P004,574,40152207,Arquitectura de Computadores,GT,B1,19.0,True
+conservadora,2,P010,612,40153332,Multiprocesadores,GT,AB3,19.0,True
+conservadora,2,P010,592,40153318,Transmisión de Datos y Redes de Computadores,GT,AB2,6.3,True
+conservadora,2,P010,559,40151107,Estructura y Tecnología de Computadores,GD,A,41.0,True
+conservadora,2,P010,626,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GD,A,22.5,True
+conservadora,2,P010,594,40153318,Transmisión de Datos y Redes de Computadores,GT,AB4,6.3,True
+conservadora,2,P010,568,40151107,Estructura y Tecnología de Computadores,GT,C2,0.9,True
+conservadora,3,P011,623,40154334,Prácticas Externas en Empresa 2,GT,A1,5.7,True
+conservadora,3,P011,609,40153332,Multiprocesadores,GD,ING,41.0,True
+conservadora,3,P011,569,40152207,Arquitectura de Computadores,GD,A,41.0,True
+conservadora,3,P011,644,71321107,Seguridad Informática,GD,ING,30.0,True
+conservadora,4,P016,623,40154334,Prácticas Externas en Empresa 2,GT,A1,3.5,True
+conservadora,4,P016,581,40152208,Fundamentos de Redes de Computadores,GD,ING,41.0,True
+conservadora,4,P016,622,40154333,Prácticas Externas en Empresa 1,GT,A1,12.0,True
+conservadora,4,P016,602,40153320,Periféricos e Interfaces,GT,A2,19.0,True
+conservadora,4,P016,600,40153320,Periféricos e Interfaces,GD,ING,41.0,True
+conservadora,4,P016,651,71461202,Ciberseguridad y Blockchain,GD,A,22.5,True
+conservadora,4,P016,562,40151107,Estructura y Tecnología de Computadores,GT,A1,19.0,True
+conservadora,5,P019,607,40153332,Multiprocesadores,GD,A,41.0,True
+conservadora,5,P019,560,40151107,Estructura y Tecnología de Computadores,GD,B,41.0,True
+conservadora,5,P019,566,40151107,Estructura y Tecnología de Computadores,GT,B2,2.0,True
+conservadora,5,P019,629,41243207,Ingeniería Inversa y Análisis Forense,GT,A1,11.3,True
+conservadora,5,P019,620,40154324,Administración de Redes y Sistemas Operativos,GT,A1,19.0,True
+conservadora,5,P019,568,40151107,Estructura y Tecnología de Computadores,GT,C2,0.8,True
+conservadora,6,P022,604,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GD,A,41.0,True
+conservadora,6,P022,633,43104223,Prácticas Externas en Empresa,GT,A1,0.5,True
+conservadora,6,P022,635,70354202,Recursos Informáticos en el Aula,GD,B,22.5,True
+conservadora,6,P022,630,43103222,Redes de Computadores,GD,A,41.0,True
+conservadora,7,P036,633,43104223,Prácticas Externas en Empresa,GT,A1,0.3,True
+conservadora,7,P036,599,40153320,Periféricos e Interfaces,GD,A,41.0,True
+conservadora,7,P036,619,40154324,Administración de Redes y Sistemas Operativos,GD,A,26.0,True
+conservadora,7,P036,614,40154321,Tecnologías Multimedia,GD,A,26.0,True
+conservadora,7,P036,589,40153318,Transmisión de Datos y Redes de Computadores,GD,A,13.7,True
+conservadora,7,P036,578,40152208,Fundamentos de Redes de Computadores,GD,A,41.0,True
+conservadora,8,P037,641,71321105,Sistemas Multimedia,GD,A,30.0,True
+conservadora,8,P037,645,71321110,Aplicaciones de las tecnologías informáticas (TIN) en empresas o centros de investigación,GD,A,3.7,True
+conservadora,8,P037,570,40152207,Arquitectura de Computadores,GD,B,41.0,True
+conservadora,8,P037,591,40153318,Transmisión de Datos y Redes de Computadores,GT,AB1,6.3,True
+conservadora,8,P037,618,40154321,Tecnologías Multimedia,GT,ING-1,19.0,True
+conservadora,9,P040,606,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GT,A2,19.0,True
+conservadora,9,P040,616,40154321,Tecnologías Multimedia,GT,A1,19.0,True
+conservadora,9,P040,566,40151107,Estructura y Tecnología de Computadores,GT,B2,17.0,True
+conservadora,9,P040,597,40153319,Tecnologías de Acceso a Red,GT,A2,19.0,True
+conservadora,9,P040,575,40152207,Arquitectura de Computadores,GT,B2,19.0,True
+conservadora,9,P040,583,40152208,Fundamentos de Redes de Computadores,GT,A2,19.0,True
+conservadora,9,P040,572,40152207,Arquitectura de Computadores,GT,A1,19.0,True
+conservadora,9,P040,642,71321105,Sistemas Multimedia,GD,ING,30.0,True
+conservadora,9,P040,573,40152207,Arquitectura de Computadores,GT,A2,19.0,True
+conservadora,10,P041,585,40152208,Fundamentos de Redes de Computadores,GT,B2,19.0,True
+conservadora,10,P041,588,40152208,Fundamentos de Redes de Computadores,GT,ING-1,19.0,True
+conservadora,10,P041,633,43104223,Prácticas Externas en Empresa,GT,A1,0.4,True
+conservadora,10,P041,650,71321736,Programación Nativa en Dispositivos Móviles,GD,A,30.0,True
+conservadora,10,P041,647,71321712,Infraestructuras en IoT,GD,A,30.0,True
+conservadora,10,P041,598,40153319,Tecnologías de Acceso a Red,GT,A3,19.0,True
+conservadora,10,P041,645,71321110,Aplicaciones de las tecnologías informáticas (TIN) en empresas o centros de investigación,GD,A,2.6,True
+conservadora,10,P041,646,71321711,Sistemas Empotrados y Ubicuos,GD,A,30.0,True
+conservadora,10,P041,648,71321713,Computación de Alto Rendimiento,GD,A,30.0,True
+conservadora,11,P059,631,43103222,Redes de Computadores,GT,A1,19.0,True
+conservadora,11,P059,596,40153319,Tecnologías de Acceso a Red,GT,A1,19.0,True
+conservadora,11,P059,611,40153332,Multiprocesadores,GT,AB2,19.0,True
+conservadora,11,P059,564,40151107,Estructura y Tecnología de Computadores,GT,A3,17.5,True
+conservadora,11,P059,584,40152208,Fundamentos de Redes de Computadores,GT,B1,19.0,True
+conservadora,11,P059,627,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GT,A1,22.5,True
+conservadora,11,P059,608,40153332,Multiprocesadores,GD,B,41.0,True
+conservadora,12,P062,637,70354202,Recursos Informáticos en el Aula,GD,D,22.5,True
+conservadora,12,P062,615,40154321,Tecnologías Multimedia,GD,ING,26.0,True
+conservadora,12,P062,580,40152208,Fundamentos de Redes de Computadores,GD,C,18.0,True
+conservadora,12,P062,621,40154324,Administración de Redes y Sistemas Operativos,GT,A2,19.0,True
+conservadora,12,P062,564,40151107,Estructura y Tecnología de Computadores,GT,A3,0.8,True
+conservadora,12,P062,563,40151107,Estructura y Tecnología de Computadores,GT,A2,19.0,True
+conservadora,13,P066,633,43104223,Prácticas Externas en Empresa,GT,A1,0.2,True
+conservadora,13,P066,636,70354202,Recursos Informáticos en el Aula,GD,C,22.5,True
+conservadora,13,P066,595,40153319,Tecnologías de Acceso a Red,GD,A,41.0,True
+conservadora,13,P066,593,40153318,Transmisión de Datos y Redes de Computadores,GT,AB3,6.3,True
+conservadora,13,P066,639,70354203,Metodologías Activas de Trabajo en Equipo,GD,B,30.0,True
+conservadora,14,P070,633,43104223,Prácticas Externas en Empresa,GT,A1,0.1,True
+conservadora,14,P070,558,33214301,Informática Médica,GD,A,5.7,True
+conservadora,14,P070,643,71321107,Seguridad Informática,GD,A,30.0,True
+conservadora,14,P070,634,70354202,Recursos Informáticos en el Aula,GD,A,22.5,True
+conservadora,14,P070,568,40151107,Estructura y Tecnología de Computadores,GT,C2,1.7,True
+conservadora,15,P074,638,70354203,Metodologías Activas de Trabajo en Equipo,GD,A,30.0,True
+conservadora,15,P074,640,70354203,Metodologías Activas de Trabajo en Equipo,GD,C,30.0,True
+conservadora,16,P075,579,40152208,Fundamentos de Redes de Computadores,GD,B,41.0,True
+conservadora,16,P075,571,40152207,Arquitectura de Computadores,GD,C,41.0,True
+conservadora,16,P075,632,43103222,Redes de Computadores,GT,A2,19.0,True
+conservadora,16,P075,645,71321110,Aplicaciones de las tecnologías informáticas (TIN) en empresas o centros de investigación,GD,A,5.0,True
+conservadora,17,P088,624,41243203,Arquitectura de Entornos Inteligentes,GD,A,22.5,True
+conservadora,17,P088,590,40153318,Transmisión de Datos y Redes de Computadores,GD,B,13.7,True
+conservadora,17,P088,564,40151107,Estructura y Tecnología de Computadores,GT,A3,0.7,True
+conservadora,17,P088,576,40152207,Arquitectura de Computadores,GT,C1,19.0,True
+conservadora,17,P088,628,41243207,Ingeniería Inversa y Análisis Forense,GD,A,11.3,True
+conservadora,17,P088,623,40154334,Prácticas Externas en Empresa 2,GT,A1,2.8,True
+conservadora,18,P091,580,40152208,Fundamentos de Redes de Computadores,GD,C,23.0,True
+conservadora,18,P091,603,40153320,Periféricos e Interfaces,GT,ING-1,19.0,True
+conservadora,18,P091,605,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GT,A1,19.0,True
+conservadora,18,P091,610,40153332,Multiprocesadores,GT,AB1,19.0,True
+conservadora,18,P091,567,40151107,Estructura y Tecnología de Computadores,GT,C1,19.0,True
+conservadora,18,P091,617,40154321,Tecnologías Multimedia,GT,A2,19.0,True
+conservadora,18,P091,561,40151107,Estructura y Tecnología de Computadores,GD,C,41.0,True
+conservadora,18,P091,587,40152208,Fundamentos de Redes de Computadores,GT,C2,19.0,True
+conservadora,18,P091,586,40152208,Fundamentos de Redes de Computadores,GT,C1,19.0,True
+conservadora,18,P091,649,71321724,Infraestructura Big Data,GD,A,30.0,True
+adversa,1,P004,633,43104223,Prácticas Externas en Empresa,GT,A1,1.5,True
+adversa,1,P004,579,40152208,Fundamentos de Redes de Computadores,GD,B,41.0,True
+adversa,1,P004,623,40154334,Prácticas Externas en Empresa 2,GT,A1,12.0,True
+adversa,1,P004,638,70354203,Metodologías Activas de Trabajo en Equipo,GD,A,30.0,True
+adversa,1,P004,570,40152207,Arquitectura de Computadores,GD,B,41.0,True
+adversa,1,P004,575,40152207,Arquitectura de Computadores,GT,B2,19.0,True
+adversa,1,P004,599,40153320,Periféricos e Interfaces,GD,A,7.6,True
+adversa,2,P010,635,70354202,Recursos Informáticos en el Aula,GD,B,22.5,True
+adversa,2,P010,615,40154321,Tecnologías Multimedia,GD,ING,26.0,True
+adversa,2,P010,566,40151107,Estructura y Tecnología de Computadores,GT,B2,19.0,True
+adversa,2,P010,645,71321110,Aplicaciones de las tecnologías informáticas (TIN) en empresas o centros de investigación,GD,A,11.3,True
+adversa,2,P010,649,71321724,Infraestructura Big Data,GD,A,17.2,True
+adversa,3,P011,559,40151107,Estructura y Tecnología de Computadores,GD,A,41.0,True
+adversa,3,P011,574,40152207,Arquitectura de Computadores,GT,B1,19.0,True
+adversa,3,P011,612,40153332,Multiprocesadores,GT,AB3,19.0,True
+adversa,3,P011,598,40153319,Tecnologías de Acceso a Red,GT,A3,19.0,True
+adversa,3,P011,619,40154324,Administración de Redes y Sistemas Operativos,GD,A,19.7,True
+adversa,4,P016,644,71321107,Seguridad Informática,GD,ING,30.0,True
+adversa,4,P016,602,40153320,Periféricos e Interfaces,GT,A2,19.0,True
+adversa,4,P016,621,40154324,Administración de Redes y Sistemas Operativos,GT,A2,19.0,True
+adversa,4,P016,637,70354202,Recursos Informáticos en el Aula,GD,D,22.5,True
+adversa,4,P016,646,71321711,Sistemas Empotrados y Ubicuos,GD,A,30.0,True
+adversa,4,P016,619,40154324,Administración de Redes y Sistemas Operativos,GD,A,6.3,True
+adversa,4,P016,641,71321105,Sistemas Multimedia,GD,A,30.0,True
+adversa,4,P016,622,40154333,Prácticas Externas en Empresa 1,GT,A1,1.2,True
+adversa,5,P019,606,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GT,A2,19.0,True
+adversa,5,P019,634,70354202,Recursos Informáticos en el Aula,GD,A,22.5,True
+adversa,5,P019,565,40151107,Estructura y Tecnología de Computadores,GT,B1,19.0,True
+adversa,5,P019,603,40153320,Periféricos e Interfaces,GT,ING-1,19.0,True
+adversa,5,P019,582,40152208,Fundamentos de Redes de Computadores,GT,A1,19.0,True
+adversa,5,P019,573,40152207,Arquitectura de Computadores,GT,A2,16.6,True
+adversa,6,P022,609,40153332,Multiprocesadores,GD,ING,41.0,True
+adversa,6,P022,599,40153320,Periféricos e Interfaces,GD,A,33.4,True
+adversa,6,P022,562,40151107,Estructura y Tecnología de Computadores,GT,A1,19.0,True
+adversa,6,P022,627,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GT,A1,11.6,True
+adversa,7,P036,567,40151107,Estructura y Tecnología de Computadores,GT,C1,19.0,True
+adversa,7,P036,630,43103222,Redes de Computadores,GD,A,41.0,True
+adversa,7,P036,577,40152207,Arquitectura de Computadores,GT,C2,19.0,True
+adversa,7,P036,617,40154321,Tecnologías Multimedia,GT,A2,19.0,True
+adversa,7,P036,649,71321724,Infraestructura Big Data,GD,A,12.8,True
+adversa,7,P036,586,40152208,Fundamentos de Redes de Computadores,GT,C1,19.0,True
+adversa,7,P036,601,40153320,Periféricos e Interfaces,GT,A1,18.2,True
+adversa,8,P037,590,40153318,Transmisión de Datos y Redes de Computadores,GD,B,13.7,True
+adversa,8,P037,639,70354203,Metodologías Activas de Trabajo en Equipo,GD,B,30.0,True
+adversa,8,P037,629,41243207,Ingeniería Inversa y Análisis Forense,GT,A1,11.3,True
+adversa,8,P037,561,40151107,Estructura y Tecnología de Computadores,GD,C,41.0,True
+adversa,8,P037,597,40153319,Tecnologías de Acceso a Red,GT,A2,4.0,True
+adversa,9,P040,650,71321736,Programación Nativa en Dispositivos Móviles,GD,A,30.0,True
+adversa,9,P040,643,71321107,Seguridad Informática,GD,A,30.0,True
+adversa,9,P040,648,71321713,Computación de Alto Rendimiento,GD,A,30.0,True
+adversa,9,P040,581,40152208,Fundamentos de Redes de Computadores,GD,ING,41.0,True
+adversa,9,P040,632,43103222,Redes de Computadores,GT,A2,19.0,True
+adversa,9,P040,584,40152208,Fundamentos de Redes de Computadores,GT,B1,19.0,True
+adversa,9,P040,578,40152208,Fundamentos de Redes de Computadores,GD,A,11.0,True
+adversa,10,P041,589,40153318,Transmisión de Datos y Redes de Computadores,GD,A,13.7,True
+adversa,10,P041,647,71321712,Infraestructuras en IoT,GD,A,30.0,True
+adversa,10,P041,568,40151107,Estructura y Tecnología de Computadores,GT,C2,19.0,True
+adversa,10,P041,596,40153319,Tecnologías de Acceso a Red,GT,A1,19.0,True
+adversa,10,P041,571,40152207,Arquitectura de Computadores,GD,C,41.0,True
+adversa,10,P041,605,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GT,A1,19.0,True
+adversa,10,P041,595,40153319,Tecnologías de Acceso a Red,GD,A,38.3,True
+adversa,11,P059,594,40153318,Transmisión de Datos y Redes de Computadores,GT,AB4,6.3,True
+adversa,11,P059,628,41243207,Ingeniería Inversa y Análisis Forense,GD,A,11.3,True
+adversa,11,P059,614,40154321,Tecnologías Multimedia,GD,A,26.0,True
+adversa,11,P059,583,40152208,Fundamentos de Redes de Computadores,GT,A2,19.0,True
+adversa,11,P059,587,40152208,Fundamentos de Redes de Computadores,GT,C2,19.0,True
+adversa,11,P059,600,40153320,Periféricos e Interfaces,GD,ING,41.0,True
+adversa,11,P059,642,71321105,Sistemas Multimedia,GD,ING,30.0,True
+adversa,11,P059,625,41243203,Arquitectura de Entornos Inteligentes,GT,A1,4.4,True
+adversa,12,P062,626,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GD,A,22.5,True
+adversa,12,P062,607,40153332,Multiprocesadores,GD,A,41.0,True
+adversa,12,P062,597,40153319,Tecnologías de Acceso a Red,GT,A2,15.0,True
+adversa,12,P062,563,40151107,Estructura y Tecnología de Computadores,GT,A2,19.0,True
+adversa,12,P062,636,70354202,Recursos Informáticos en el Aula,GD,C,7.8,True
+adversa,13,P066,572,40152207,Arquitectura de Computadores,GT,A1,19.0,True
+adversa,13,P066,622,40154333,Prácticas Externas en Empresa 1,GT,A1,10.8,True
+adversa,13,P066,601,40153320,Periféricos e Interfaces,GT,A1,0.8,True
+adversa,13,P066,624,41243203,Arquitectura de Entornos Inteligentes,GD,A,22.5,True
+adversa,13,P066,580,40152208,Fundamentos de Redes de Computadores,GD,C,41.0,True
+adversa,13,P066,627,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GT,A1,5.9,True
+adversa,14,P070,595,40153319,Tecnologías de Acceso a Red,GD,A,2.7,True
+adversa,14,P070,593,40153318,Transmisión de Datos y Redes de Computadores,GT,AB3,6.3,True
+adversa,14,P070,608,40153332,Multiprocesadores,GD,B,41.0,True
+adversa,14,P070,616,40154321,Tecnologías Multimedia,GT,A1,10.0,True
+adversa,15,P074,625,41243203,Arquitectura de Entornos Inteligentes,GT,A1,18.1,True
+adversa,15,P074,627,41243204,Fundamentos en Identidad Digital y Seguridad Biométrica,GT,A1,5.0,True
+adversa,15,P074,569,40152207,Arquitectura de Computadores,GD,A,36.9,True
+adversa,16,P075,592,40153318,Transmisión de Datos y Redes de Computadores,GT,AB2,6.3,False
+adversa,16,P075,631,43103222,Redes de Computadores,GT,A1,19.0,False
+adversa,16,P075,560,40151107,Estructura y Tecnología de Computadores,GD,B,41.0,False
+adversa,16,P075,616,40154321,Tecnologías Multimedia,GT,A1,9.0,False
+adversa,16,P075,604,40153327,Integración de las Tecnologías de la Información en las Organizaciones,GD,A,30.7,False
